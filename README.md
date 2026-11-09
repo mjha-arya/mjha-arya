@@ -3,7 +3,7 @@
 
 <p align="center">
   10 years in security operations (KPMG · Okta · enterprise financial services) · London<br/>
-  <b>Upwork Top Rated · 100% Job Success</b> · CEH · Microsoft Azure Security Engineer
+  <b>Upwork Top Rated · 90% Job Success</b> · CEH · Microsoft Azure Security Engineer
 </p>
 
 <p align="center">
