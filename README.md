@@ -35,6 +35,7 @@ Most AI agents ship as a prompt and a hope. I spent a decade in SecOps learning 
 
 | Repo | Highlights |
 |---|---|
+| 🧹 **[agent-lint](https://github.com/mjha-arya/agent-lint)** | **New.** A least-privilege and supply-chain linter for Claude Code agents, skills and MCP servers. Catches unpinned MCP servers, `Bash(*)`, bypassed permissions and plaintext tokens. Zero dependencies, SARIF output, GitHub Action |
 | 🛡️ **[DOC-foundry](https://github.com/mjha-arya/DOC-foundry)** | Adversarial detection engineering. Blue writes Sigma rules, Red attacks them, and a deterministic referee proves coverage |
 | 🕵️ **[secops-agents](https://github.com/mjha-arya/secops-agents)** | Claude Agent SDK agents for Defender XDR investigation, read-only MCP servers, a PM → architect → dev agent team, and **an agent that audits agents** |
 | 🐝 **[agent-swarm](https://github.com/mjha-arya/agent-swarm)** | The G0–G5 gate ladder every agent passes before shipping, plus a **[live voice-agent demo](https://mjha-arya.github.io/agent-swarm/)** with gates on screen |
